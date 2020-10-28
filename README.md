@@ -13,7 +13,7 @@ Evaluation
 ```python
 from vocab import Vocabulary
 import evaluation
-evaluation.evalrank("$RUN_PATH/coco_vse++/model_best.pth.tar", data_path="$DATA_PATH", split="test")'
+evaluation.evalrank("$RUN_PATH/coco_vse++/model_best.pth.tar", data_path="$DATA_PATH", split="test")
 ```
 To do cross-validation on MSCOCO, pass `fold5=True` with a model trained using 
 `--data_name coco`.
