@@ -19,4 +19,5 @@ To do cross-validation on MSCOCO, pass `fold5=True` with a model trained using
 `--data_name coco`.
 
 ##Acknowledge
+
 The visual-semantic embedding part is based on the codebase of [VSE++](https://github.com/fartashf/vsepp), the code implementation of **[VSE++: Improving Visual-Semantic Embeddings with Hard Negatives](https://arxiv.org/abs/1707.05612)***, F. Faghri, D. J. Fleet, J. R. Kiros, S. Fidler, Proceedings of the British Machine Vision Conference (BMVC),  2018. (BMVC Spotlight)*
