@@ -1,4 +1,4 @@
-# PKWE: Prior-Knowledge Word Embedding
+# PKWE: Priori-Knowledge Word Embedding
 
 ## Running Model
 Generate word embedding: 
