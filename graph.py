@@ -29,7 +29,6 @@ import sys
 
 import utils
 from utils import cosine_sim, l2norm, sequence_mask, lemmatize_all, make_embeddings, cosine_sim
-from Tree_LSTM import treelstm, gru
 
 from sklearn import preprocessing
 import spacy
